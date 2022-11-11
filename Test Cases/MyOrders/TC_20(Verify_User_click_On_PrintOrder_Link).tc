@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20(Verify_User_click_On_PrintOrder_Link)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7c54245-6b5a-494b-8843-13f8cd761312</testCaseGuid>
+</TestCaseEntity>

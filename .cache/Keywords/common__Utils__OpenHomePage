@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E2227A1B8449293E841E30E045ECE481",
+  "keywordClasses": [
+    {
+      "name": "common.Utils.OpenHomePage",
+      "keywordMethods": [
+        {
+          "name": "openHomePage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

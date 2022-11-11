@@ -1,0 +1,51 @@
+{
+  "keywordFileContentHash": "BAE4D8C97E3CFFDBC736C2AD4DF0BE85",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.LatestOffers",
+      "keywordMethods": [
+        {
+          "name": "redirectToLatestOffersPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToPDPFromLatestOfferPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnLoadMoreLinkLatestOfferPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "increaseDescreaseProductQuantityLatestOffers",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductToCartLatestOffer",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "SearchProductWithFilterLatestoffers",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewStylesOfProductsLatestOffers",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductToFavouritePage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

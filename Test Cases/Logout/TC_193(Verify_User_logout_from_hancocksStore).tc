@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_193(Verify_User_logout_from_hancocksStore)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>433134e0-d3c0-4a93-93d9-ade9fcd2620f</testCaseGuid>
+</TestCaseEntity>

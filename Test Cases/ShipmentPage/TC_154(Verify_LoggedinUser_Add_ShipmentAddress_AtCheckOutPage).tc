@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_154(Verify_LoggedinUser_Add_ShipmentAddress_AtCheckOutPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df817b15-515a-4379-9358-9c69f6d754d7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_60(Verify_User_Clicks_Radio_Buttons_on_HomePage_BannerImages )</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8e97a36-e0b1-4bb5-9ab7-99db55d88986</testCaseGuid>
+</TestCaseEntity>

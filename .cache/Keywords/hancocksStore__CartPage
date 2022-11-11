@@ -1,0 +1,136 @@
+{
+  "keywordFileContentHash": "E359E7A50149A1E0B7D922549E11B90C",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.CartPage",
+      "keywordMethods": [
+        {
+          "name": "openAndCloseCartpopup",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkProductQuantityAddedInMiniCart",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToTrolleyPageFromMiniCart",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewProductUnderStockForDeliveryAtCartPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewProductUnderStockForCollectionAtCartPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "RedirectToPDPFromTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewProductCodeAtPDPPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnBackLinkAtCartPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editQuantityAtCartPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editQuantitywithNumberAtCartPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewPriceOfCartproducts",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductIntoCartWithoutLogin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewSubtotalPriceViewTrolley",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewVatPercentage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductToFavListViewTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "removeProductFromTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewProductsInStockTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "removeAllItemsFromTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkTrolleySummaryPrice",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkOrderTotalPriceTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "applyDiscountTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkDeliveryDatesTrolleyPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnCheckoutButton",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnCheckoutWithPayPal",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "orderThroughPaypalCheckout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

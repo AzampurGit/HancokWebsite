@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_132(Verify_User_View_ProductsUnder_ShowingStockDeliveryOption_CartPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c010c25-2052-41b6-8b09-21c4beede8e5</testCaseGuid>
+</TestCaseEntity>

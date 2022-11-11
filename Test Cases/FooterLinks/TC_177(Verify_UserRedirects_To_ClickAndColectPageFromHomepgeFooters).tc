@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_177(Verify_UserRedirects_To_ClickAndColectPageFromHomepgeFooters)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>443f6588-fe7e-47a4-a423-77b099196480</testCaseGuid>
+</TestCaseEntity>

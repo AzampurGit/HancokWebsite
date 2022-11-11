@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_77(Verify_User_redirectsToPDP_FromNewInPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edf7c744-9a11-4c51-8321-14b12341ff5c</testCaseGuid>
+</TestCaseEntity>

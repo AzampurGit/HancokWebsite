@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_26(Verify_User_IncDecreaseQuantyOfProduct_atMyFavPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09fbf677-6f90-46cd-ac05-44231f1ec0a7</testCaseGuid>
+</TestCaseEntity>

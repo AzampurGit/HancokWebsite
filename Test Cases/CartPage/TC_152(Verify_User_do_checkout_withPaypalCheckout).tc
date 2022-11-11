@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_152(Verify_User_do_checkout_withPaypalCheckout)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc181d72-b85c-4ef2-8fb7-64b5dddc22a9</testCaseGuid>
+</TestCaseEntity>

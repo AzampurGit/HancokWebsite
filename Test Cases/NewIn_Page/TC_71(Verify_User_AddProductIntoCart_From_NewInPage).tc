@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_71(Verify_User_AddProductIntoCart_From_NewInPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6bdb957-c233-485b-8b1a-86ae47d364ba</testCaseGuid>
+</TestCaseEntity>

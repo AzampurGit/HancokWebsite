@@ -1,0 +1,101 @@
+{
+  "keywordFileContentHash": "8C189A00A07432A385B3362A954A44F4",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.FooterLinks",
+      "keywordMethods": [
+        {
+          "name": "redirectToFAQPageFromHomePageFooterlinks",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToContactUsFromHomePageFooterLink",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToDeliveryInformationPageFromHomePageFooterLink",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToReturnPolicyPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToCovidInfPageFromHomePagefooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToClickAndCollectPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToFindAStorePageFromHomePageFooterLinks",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToWholeSaleSweetsPageFromHomePageFooterLinks",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToBespokePackagingPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToConfectionaryPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToAboutUsFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToBlogFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToCorporatePolicyPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectTofaceBookPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToInstagramPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToLinkedinPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToTwitterPageFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "leaveFeedBackFromHomePageFooter",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

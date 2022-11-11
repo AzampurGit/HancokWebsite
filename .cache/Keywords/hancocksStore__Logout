@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E97A6D628C1AAEA8E9B38A6E330C3E8D",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.Logout",
+      "keywordMethods": [
+        {
+          "name": "logoutfromHancocksStore",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

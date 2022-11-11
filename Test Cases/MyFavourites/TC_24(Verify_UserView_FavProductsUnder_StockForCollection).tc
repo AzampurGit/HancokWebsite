@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_24(Verify_UserView_FavProductsUnder_StockForCollection)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd6c3c75-2291-48c7-afdf-39a488aa2616</testCaseGuid>
+</TestCaseEntity>

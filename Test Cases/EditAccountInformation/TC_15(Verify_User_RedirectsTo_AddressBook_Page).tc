@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Redirection to Manage Address page</description>
+   <name>TC_15(Verify_User_RedirectsTo_AddressBook_Page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0f88b29-9be2-448d-951c-546a9d130850</testCaseGuid>
+</TestCaseEntity>

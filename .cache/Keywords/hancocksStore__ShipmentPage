@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "39E7D962C1CA7727F9147309B86052C4",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.ShipmentPage",
+      "keywordMethods": [
+        {
+          "name": "addShippmentAddress",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "editTrolleyFromCheckoutShipmentPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectDeliveryOptionShipmentPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "removeItemFromTrolley",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToPaymentPageFromCheckoutShipping",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

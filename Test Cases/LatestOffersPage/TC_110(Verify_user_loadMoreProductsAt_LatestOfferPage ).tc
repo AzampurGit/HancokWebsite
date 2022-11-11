@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_110(Verify_user_loadMoreProductsAt_LatestOfferPage )</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa061757-03ae-4418-8ade-f2a899700720</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_99(Verify_user_SelectProduct_ByHovering_ShopByBrand)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e199ae1d-26e6-4a98-a755-52d363df676f</testCaseGuid>
+</TestCaseEntity>

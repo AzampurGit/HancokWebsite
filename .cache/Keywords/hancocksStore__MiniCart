@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "615ED69511B4935398AB4626139ACC83",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.MiniCart",
+      "keywordMethods": [
+        {
+          "name": "checoutOrderFromMiniCart",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToTrolleyPageFromMiniCart",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectsToPDPFromMiniCart",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10(Verify_User_redirects_To_Email_SubscriptionPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a75d25fe-00ec-41d5-926e-d1c989d646cc</testCaseGuid>
+</TestCaseEntity>

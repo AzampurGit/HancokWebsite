@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_150(Verify_UserView_DeliveryDateOf OrderedProducts_AtCartPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2813bc6-727f-485b-b55c-5eccd3a6ac91</testCaseGuid>
+</TestCaseEntity>

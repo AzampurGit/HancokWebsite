@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_176(Verify_User_redirectsToCovidInfomationPageFromHomePageFooter)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1c9910e-4301-4eb9-a362-da4346650423</testCaseGuid>
+</TestCaseEntity>

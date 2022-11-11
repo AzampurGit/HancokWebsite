@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "4A75B69520FE1A42D727F6B97B04A769",
+  "keywordClasses": [
+    {
+      "name": "testpkg.Myorders",
+      "keywordMethods": [
+        {
+          "name": "myorder",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "757872918078410B91C5D39740528E53",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.GDPR",
+      "keywordMethods": [
+        {
+          "name": "redirectToGDPRPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectEraseAccountOptionGDpr",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

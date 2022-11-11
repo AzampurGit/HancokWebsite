@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109(Verfiy_User_redirectedTo_PDP_From_LatestOfferPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3e7aee4-a77c-430b-8b12-ec1524c99c7e</testCaseGuid>
+</TestCaseEntity>

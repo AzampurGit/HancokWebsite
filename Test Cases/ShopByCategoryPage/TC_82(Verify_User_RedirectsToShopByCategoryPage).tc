@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_82(Verify_User_RedirectsToShopByCategoryPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3a4d3d-f968-460f-bd46-34a2e0f96bae</testCaseGuid>
+</TestCaseEntity>

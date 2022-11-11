@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_37(Verify_User_AddNewCard_FromStoredPayment_Page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fee02172-d0cc-4411-b9fb-15be00c98956</testCaseGuid>
+</TestCaseEntity>

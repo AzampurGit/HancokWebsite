@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12(Verify_User_Update_Default_Billing_Address)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d0c8f06-0c5a-4797-9715-f082e7ead73d</testCaseGuid>
+</TestCaseEntity>

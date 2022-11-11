@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_175(Verify_user_redirectsToReturnPolicyPageFromHomePageFooter)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3ae2f7b-c008-4c4b-a8a5-9aef6667d5a7</testCaseGuid>
+</TestCaseEntity>

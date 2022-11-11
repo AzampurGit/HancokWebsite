@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05(Verify_User_Navigates_To_Edit_Account_Information_Page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa001e48-8bb4-4d60-bc56-d892215597e4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register new user with hancocks store website.</description>
+   <name>TC_01(Verify_User_redirectsTo_CreateAccountPage)</name>
+   <tag>Registration of New customer.</tag>
+   <comment></comment>
+   <testCaseGuid>54e14843-18c5-48d0-8737-4d555f276af5</testCaseGuid>
+</TestCaseEntity>

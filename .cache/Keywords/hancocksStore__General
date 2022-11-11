@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C6FC0383A3F2494F92079BDA08650162",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.General",
+      "keywordMethods": [
+        {
+          "name": "generateOrderWithoutLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

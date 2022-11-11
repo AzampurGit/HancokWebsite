@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_30(Verify_UserRedirectAddBookPage_clickonAddressBookLink_MyAccount)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2431722-1841-40a7-b7e9-60d7d16dc0f5</testCaseGuid>
+</TestCaseEntity>

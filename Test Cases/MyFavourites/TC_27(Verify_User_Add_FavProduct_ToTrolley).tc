@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_27(Verify_User_Add_FavProduct_ToTrolley)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>107ac8e5-88c3-45c5-b41a-ba5d54d39903</testCaseGuid>
+</TestCaseEntity>

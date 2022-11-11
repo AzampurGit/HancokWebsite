@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_86(Verify_user_SearchProductWithFilters_ShopByCategory)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c152d80-6d0d-421c-a29b-d7f9ef5580a6</testCaseGuid>
+</TestCaseEntity>

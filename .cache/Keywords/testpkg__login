@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A4BE5C4CD8C8179C73038E2F52048459",
+  "keywordClasses": [
+    {
+      "name": "testpkg.login",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

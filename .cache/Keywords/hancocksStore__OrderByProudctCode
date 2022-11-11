@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "4A6ABB37053C3B09D16CAB73115704B6",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.OrderByProudctCode",
+      "keywordMethods": [
+        {
+          "name": "redirectToOrderByProductCodePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductToCartThroughorderByProductCode",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "removeRowforOrderProductCode",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

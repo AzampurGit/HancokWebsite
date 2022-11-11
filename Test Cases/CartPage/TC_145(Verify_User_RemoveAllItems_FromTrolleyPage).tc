@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_145(Verify_User_RemoveAllItems_FromTrolleyPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>698a86ea-f142-4e80-8693-1dbc768b75ca</testCaseGuid>
+</TestCaseEntity>

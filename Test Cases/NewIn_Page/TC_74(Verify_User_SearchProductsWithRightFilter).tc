@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_74(Verify_User_SearchProductsWithRightFilter)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>101df5c6-4ac2-4b0d-a948-dcd0f02e00ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_169(Verify_User_View_ReturnPolicyInformation_AtHomePageFromSigninHovering)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94f5ecba-a7fe-4e51-bfff-92ac02fb30d8</testCaseGuid>
+</TestCaseEntity>

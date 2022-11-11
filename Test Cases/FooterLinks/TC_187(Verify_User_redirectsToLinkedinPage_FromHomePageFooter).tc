@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_187(Verify_User_redirectsToLinkedinPage_FromHomePageFooter)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcfd3bdd-f141-4915-afcd-2eba60648981</testCaseGuid>
+</TestCaseEntity>

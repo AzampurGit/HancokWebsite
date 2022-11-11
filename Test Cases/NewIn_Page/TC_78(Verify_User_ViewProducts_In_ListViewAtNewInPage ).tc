@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_78(Verify_User_ViewProducts_In_ListViewAtNewInPage )</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f69af78-e7e2-4167-bbd2-a0dfe88c9564</testCaseGuid>
+</TestCaseEntity>

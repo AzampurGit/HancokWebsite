@@ -1,0 +1,56 @@
+{
+  "keywordFileContentHash": "5F9E2BFDB08705142D02DCB8F8641637",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.MyFavourite",
+      "keywordMethods": [
+        {
+          "name": "redirectToMyFavouritesPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addfirstProductToFavList",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "showFavouriteProductsOfShowStockDelivery",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "showFavouriteProductsofShowStockCollection",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "favProductRedirectToPdpPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "increaseDecreaseQuantityOfFavProduct",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addFavProductToTrolley",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "removeFavProduct",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "favouritePagePagination",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

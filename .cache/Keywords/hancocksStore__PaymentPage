@@ -1,0 +1,56 @@
+{
+  "keywordFileContentHash": "0CF520438746BF8CC01C75E6DFCCCEAF",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.PaymentPage",
+      "keywordMethods": [
+        {
+          "name": "selectPaymentMethodFromCheckoutPaymentPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkSubtotalPriceAtCartPageAndProceed",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "applyDiscountCouponAtCheckoutPaymentPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToEditShipToAndShippingMethodPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToPaypalPageFromPaymentPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateOrderThroughPayPalFromPaymentpage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "paymentOfOrderCashOnDelivery",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addCardNumber",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToHomePageFromOrderSucessPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

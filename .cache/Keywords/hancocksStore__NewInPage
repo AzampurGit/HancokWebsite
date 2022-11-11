@@ -1,0 +1,71 @@
+{
+  "keywordFileContentHash": "2B4CEC0C21D66A5B257DAC950F4CD1C3",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.NewInPage",
+      "keywordMethods": [
+        {
+          "name": "redirectToNewInPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductToTrolleyFromNewInPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewShowingStockForDeliveryProductsAtNewInPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewShowStockForCollectionProducts",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectFilterOfProducts",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectFilterSectionForProducts",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addToFavouriteFromNewIN",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToPDPPageFromNewIn",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewProductInModeListView",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnLoadMoreNewINPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnShowMoreLinkNewINPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickonShowLessLinkNewInPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08(Verify_User_Edit_Email_Address)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>150e494a-b61a-438c-850a-cccbf1a1e1ba</testCaseGuid>
+</TestCaseEntity>

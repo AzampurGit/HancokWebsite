@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_125(Verify_User_AddProductIntoFavList_WithLoggedInUser)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a9582a0-00ff-4fcb-9c68-9dfe0a59b82c</testCaseGuid>
+</TestCaseEntity>

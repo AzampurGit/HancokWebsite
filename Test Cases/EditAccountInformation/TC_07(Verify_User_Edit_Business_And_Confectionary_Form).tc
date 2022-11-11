@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit business type 
+Edit confectionary form</description>
+   <name>TC_07(Verify_User_Edit_Business_And_Confectionary_Form)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>800f3089-92d7-4cda-9310-06aab138323f</testCaseGuid>
+</TestCaseEntity>

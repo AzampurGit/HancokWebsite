@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description> Staging hancocks website - Homepage</description>
+      <initValue>'https://staging.hancocks.co.uk/'</initValue>
+      <name>Staging_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CREATE NEW CUSTOMER ACCOUNT'</initValue>
+      <name>Create_account_text</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation_Test'</initValue>
+      <name>FirstName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'user'</initValue>
+      <name>LastName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HancockAutoUser@yopmail.com'</initValue>
+      <name>EmailAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test@123456'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MY ACCOUNT'</initValue>
+      <name>MyAccountTextAfterLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'EDIT ACCOUNT INFORMATION'</initValue>
+      <name>EditAccountLabel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>waitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AutoUserFirstName'</initValue>
+      <name>FirstNameUpdate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AutoUserlastName'</initValue>
+      <name>LastnameUpdate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2</initValue>
+      <name>DropdownIndexNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'You saved the account information.'</initValue>
+      <name>SavedAccountInformation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Testing data'</initValue>
+      <name>Confectioneryform</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HancockAutoUser@yopmail.com'</initValue>
+      <name>EmailUpdate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test@123456'</initValue>
+      <name>PasswordUpdate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email Subscription'</initValue>
+      <name>EmailSubcriptionText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'9685741205'</initValue>
+      <name>Default_billing_Edit_phone_number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Delivery City'</initValue>
+      <name>Edit_Delivery_Address_Edit_City</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ADDRESS BOOK'</initValue>
+      <name>Address_Book_Text</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'9874563210'</initValue>
+      <name>Add_New_Addres_PhoneNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Frankfurt'</initValue>
+      <name>AddNew_Address_Street_Address</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Darmstadt'</initValue>
+      <name>AddNew_Address_Country</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AddressNewTown '</initValue>
+      <name>AddNew_Address_town</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SW1A0AA'</initValue>
+      <name>AddNew_Address_zip</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'You saved the address.'</initValue>
+      <name>Text_Save_New_Address</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4242424242424242'</initValue>
+      <name>Card_Number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'34394'</initValue>
+      <name>Product_code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2'</initValue>
+      <name>Product_quantity</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HARIBO GIANT STRAWBS 3KG'</initValue>
+      <name>PDP_Page_Text</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SHOP BY CATEGORY'</initValue>
+      <name>CategoryPageText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HARIBO GIANT STRAWBS 3KG'</initValue>
+      <name>ProductName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'34394'</initValue>
+      <name>ProductSKU</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'You added Haribo Giant Strawbs 3kg to your shopping trolley.'</initValue>
+      <name>ProductAddToTrolleySucessMessage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CUSTOMER LOGIN'</initValue>
+      <name>CustomerLoginText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Your trolley is empty.'</initValue>
+      <name>Text_EmptyTrolley</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'In Stock'</initValue>
+      <name>TextInstockTrolleyPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'15'</initValue>
+      <name>ProductQuantityAtCartPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hancocksorder@yopmail.com'</initValue>
+      <name>OrderEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CUSTOMER LOGIN'</initValue>
+      <name>TextCustomeLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'EMAIL SUBSCRIPTION'</initValue>
+      <name>EmailSubscPageText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'EDIT ADDRESS'</initValue>
+      <name>TextEditAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TestCompany'</initValue>
+      <name>CompanyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MY ORDERS'</initValue>
+      <name>Text_MyOrderPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ORDER'</initValue>
+      <name>TextViewOrder</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'YOUR SHOPPING TROLLEY'</initValue>
+      <name>TextShopingTrolleyPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'50'</initValue>
+      <name>PaginationValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'has been removed from your Wish List.'</initValue>
+      <name>SucessMsg_RemoveProdFromMyFavPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'haribo'</initValue>
+      <name>ProductNameHalf</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>Ballon_Quantity</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'M2FREE'</initValue>
+      <name>DiscoutCoupon</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sb-pt743f14335480@personal.example.com'</initValue>
+      <name>PaypalUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Netsolutions7!'</initValue>
+      <name>PaypalPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>50</initValue>
+      <name>MinimumOrderAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://preprod.hancocks.co.uk/'</initValue>
+      <name>PreprodUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hancocks Cash &amp; Carry | Wholesale Sweets &amp; Confectionery'</initValue>
+      <name>HomePageWindowTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'withoutLoginUser@yopmail.com'</initValue>
+      <name>EmailWithoutLoginUserShipmentPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Thank YOU FOR SHOPPING WITH'</initValue>
+      <name>ThankYouPage</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

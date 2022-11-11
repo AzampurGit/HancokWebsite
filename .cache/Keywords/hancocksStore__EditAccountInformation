@@ -1,0 +1,86 @@
+{
+  "keywordFileContentHash": "AC1819ACA87672D24D5B029487827308",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.EditAccountInformation",
+      "keywordMethods": [
+        {
+          "name": "redirectToEditAccountPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "updateFirstLastName",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "updatebusinesstypeConfectfield",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "updateEmailid",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "updatePassword",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToEmailSubscrPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToEditDefaultBillingAddressPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "updateDefaultBillAddress",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToEditDefaultDeliveryAddressPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "updateDefaultDeliveryAddress",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToAddressBookPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addNewAddress",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToAddressBook",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToAccountInfPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "updateCompanyNameInAccountPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

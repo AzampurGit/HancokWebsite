@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_93(Verify_User_AddProduct_ToCart_FromShopByCategory)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81612356-f35e-462e-92f1-911671b9d6c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "6907DECB59C06F31BEA46E03E444AB17",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.PostivieFlow",
+      "keywordMethods": [
+        {
+          "name": "generateOrderWithoutLogin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateOrderWithLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

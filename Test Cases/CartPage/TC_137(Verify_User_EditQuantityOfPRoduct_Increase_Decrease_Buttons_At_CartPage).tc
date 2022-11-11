@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_137(Verify_User_EditQuantityOfPRoduct_Increase_Decrease_Buttons_At_CartPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a331734-bd41-4189-bc07-5f32b84a729f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_143(Verify_User_removeProduct_FromCartPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0180d973-c650-4f09-9f17-f61112c8f194</testCaseGuid>
+</TestCaseEntity>

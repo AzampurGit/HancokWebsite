@@ -1,0 +1,86 @@
+{
+  "keywordFileContentHash": "6A11EBEA1E5A36BE52A1A5E61E9B5696",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.ShopbyCategory",
+      "keywordMethods": [
+        {
+          "name": "redirectToShopByCategoryPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openPDPPageFromShopByCategoryPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectCategoryProductbyHovering",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "productDropdownfilters",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "categoryByShopFiltersForProducts",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addproductIntoFavPageFromNewInPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openPDPFromCategoryPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewProductsInGridNewInPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToPDPClickONProdcutImageAtCategPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickLoadMoreLinkCategPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "increaseDecreaseQuantityOfProductAtCategoryPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addToTrolleyFromCategPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnShowStockForCollectionCategPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openMiniCartCategPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnMoreInformationAtPDPCategPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

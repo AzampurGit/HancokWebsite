@@ -1,0 +1,76 @@
+{
+  "keywordFileContentHash": "18934E1C9E044D460C0CA5316DF66533",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.HomePage",
+      "keywordMethods": [
+        {
+          "name": "redirectToHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnPreviousForwardButtonOnBannerImage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnRadioBtnAtBannerImage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ScrollForwardBackwardButtonsOfHomePageProducts",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openPDPpageofFirstProduct",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addToFavouriteFromHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addToCartOfFirstProductFromHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "increaseOrdecreaseQuantityOfProduct",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnImageShopNowAtHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnReadMoreLink",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "expandBrandSectionAtHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewReturnPolicyInformationAtHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "returnToHomePageFromReturnPolicyPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

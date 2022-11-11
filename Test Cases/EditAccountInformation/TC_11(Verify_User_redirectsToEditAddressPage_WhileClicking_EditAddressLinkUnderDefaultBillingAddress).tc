@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11(Verify_User_redirectsToEditAddressPage_WhileClicking_EditAddressLinkUnderDefaultBillingAddress)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7c5d181-5c17-49e2-a211-d2e6b529957a</testCaseGuid>
+</TestCaseEntity>

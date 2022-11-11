@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_106(Verify_User_ChnageQuantity_OfProducts_AtShopByBrandPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4f21092-98e2-478c-b68f-bd246217501d</testCaseGuid>
+</TestCaseEntity>

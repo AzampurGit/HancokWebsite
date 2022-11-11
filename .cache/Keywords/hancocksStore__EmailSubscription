@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "65F5DFD2739F6D0E44BD748B0BDD6039",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.EmailSubscription",
+      "keywordMethods": [
+        {
+          "name": "redirectToEmailSubscriptionPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkEmailSubCheckbox",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "subscribeEmail",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

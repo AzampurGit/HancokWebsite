@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "1B3BCBADA07EC3BE227FD0B80D163141",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.MyOrders",
+      "keywordMethods": [
+        {
+          "name": "redirectToMyOrdersPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "viewSelectedOrder",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "reorderFromViewOrdersPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "printOrderLink",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "paginationAtMyOrderPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

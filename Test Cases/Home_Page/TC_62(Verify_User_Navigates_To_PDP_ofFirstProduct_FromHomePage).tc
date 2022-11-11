@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_62(Verify_User_Navigates_To_PDP_ofFirstProduct_FromHomePage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4585694f-ae93-4eeb-a638-c877e1ca948a</testCaseGuid>
+</TestCaseEntity>

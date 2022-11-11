@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_41(Verify_User_CanClose_DeleteCardPopUp_FromStoredPaymentPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee21af68-45f5-49e8-9459-4785d19ba12e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_192(Verify_User_GenerateOrder_WithLogin)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0a30070-bcc4-4455-b31d-86097fdbc990</testCaseGuid>
+</TestCaseEntity>

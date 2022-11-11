@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_122(Verify_User_AddProductToCart_FromSearchSugestions)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4685be5-03e4-42a9-a215-3418587b0c79</testCaseGuid>
+</TestCaseEntity>

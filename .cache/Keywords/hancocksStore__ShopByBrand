@@ -1,0 +1,61 @@
+{
+  "keywordFileContentHash": "0E40693A8F8E4B0C27E3ADF66409E79B",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.ShopByBrand",
+      "keywordMethods": [
+        {
+          "name": "redirectsToShopByBrandPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ShopByBrandSearchFilters",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "redirectToPDPFromShopByBrandPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "selectCategoryAndProductByhovering",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "productDropdownFilterAtshopByBrandPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addToFavFromShopByBrandPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickonImageOfProductAtShopByBrandPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnLoadMoreShopByBrandPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "increaseDecreaseQuantityOfProductShopByBrand",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductsIntoCartFromShopByBrandPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

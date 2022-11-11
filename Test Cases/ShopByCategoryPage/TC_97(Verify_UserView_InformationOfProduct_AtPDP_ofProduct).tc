@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_97(Verify_UserView_InformationOfProduct_AtPDP_ofProduct)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1ccde79-b4cc-415a-8926-afc5b6c95db6</testCaseGuid>
+</TestCaseEntity>

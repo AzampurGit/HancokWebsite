@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "1F8D04E3C39667A078D41939F103910C",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.SearchSection",
+      "keywordMethods": [
+        {
+          "name": "searchProduct",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "searchProductWithSKU",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "clickOnAddToTrolleyFromSearchSuggestion",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ViewMoreResultsFromSearchSuggestion",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

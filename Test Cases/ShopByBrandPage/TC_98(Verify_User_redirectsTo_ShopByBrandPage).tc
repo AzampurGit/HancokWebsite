@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_98(Verify_User_redirectsTo_ShopByBrandPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caa431b0-7b86-4887-860f-5c0544c46a0a</testCaseGuid>
+</TestCaseEntity>

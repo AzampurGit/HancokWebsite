@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_159(Verify_User_redirectedTo_PaymentPage_AfterClickingOn_nextButton_AtShippemntPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>296db87f-2cbf-4ce6-af8a-e57c8d736e89</testCaseGuid>
+</TestCaseEntity>

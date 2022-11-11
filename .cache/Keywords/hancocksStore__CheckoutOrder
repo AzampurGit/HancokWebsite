@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "FCA18B6C089A64912C43A0CBE2362CD3",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.CheckoutOrder",
+      "keywordMethods": [
+        {
+          "name": "checoutOrderFromMiniCart",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

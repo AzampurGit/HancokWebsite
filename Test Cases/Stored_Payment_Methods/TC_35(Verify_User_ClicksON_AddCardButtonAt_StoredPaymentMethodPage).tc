@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_35(Verify_User_ClicksON_AddCardButtonAt_StoredPaymentMethodPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eebfb8f9-ff6e-4042-a71a-75ac0f293586</testCaseGuid>
+</TestCaseEntity>

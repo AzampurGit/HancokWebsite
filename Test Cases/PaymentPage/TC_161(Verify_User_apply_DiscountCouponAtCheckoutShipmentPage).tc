@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_161(Verify_User_apply_DiscountCouponAtCheckoutShipmentPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3febbb4-417f-42f1-83f9-035eae3853b1</testCaseGuid>
+</TestCaseEntity>

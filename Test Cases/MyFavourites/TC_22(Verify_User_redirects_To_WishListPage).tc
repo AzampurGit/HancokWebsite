@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_22(Verify_User_redirects_To_WishListPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeca7070-ffed-485c-9104-632a14296044</testCaseGuid>
+</TestCaseEntity>

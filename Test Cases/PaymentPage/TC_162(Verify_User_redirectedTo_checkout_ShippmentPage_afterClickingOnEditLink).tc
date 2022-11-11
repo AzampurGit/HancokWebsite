@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_162(Verify_User_redirectedTo_checkout_ShippmentPage_afterClickingOnEditLink)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dad538a6-0111-461c-bbb7-35436c01d6d9</testCaseGuid>
+</TestCaseEntity>

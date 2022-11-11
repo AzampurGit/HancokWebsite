@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "CFDB517125052E1AEA21DF85E803670B",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.WishlistPage",
+      "keywordMethods": [
+        {
+          "name": "addproductIntoWishlistWithoutLogin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "addProductIntoWishlistWithLogin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "removeProductFromFavouriteList",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

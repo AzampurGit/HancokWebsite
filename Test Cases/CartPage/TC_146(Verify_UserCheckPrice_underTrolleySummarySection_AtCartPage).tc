@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146(Verify_UserCheckPrice_underTrolleySummarySection_AtCartPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53fa4b29-2b53-4269-9071-932157791a0e</testCaseGuid>
+</TestCaseEntity>

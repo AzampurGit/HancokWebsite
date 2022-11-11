@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_34(Verify_User_RedirectTo_StorePaymentMethod_Page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a2f1cf5-516e-4de2-961e-8f963d399c39</testCaseGuid>
+</TestCaseEntity>

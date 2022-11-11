@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03(Verify_User_redirectsTo_CreateAccountPage_FromLoginPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7b387d9-e93a-4654-9dfb-cb16f2bb0c0b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_88(Verify_User_RedirectPDP_From_ShopByCategory)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f01e840d-2fd8-49f3-a899-6c0d44a050cf</testCaseGuid>
+</TestCaseEntity>

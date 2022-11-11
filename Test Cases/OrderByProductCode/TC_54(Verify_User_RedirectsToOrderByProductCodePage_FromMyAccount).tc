@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_54(Verify_User_RedirectsToOrderByProductCodePage_FromMyAccount)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db1bb624-1995-4624-8310-ed695b236f04</testCaseGuid>
+</TestCaseEntity>

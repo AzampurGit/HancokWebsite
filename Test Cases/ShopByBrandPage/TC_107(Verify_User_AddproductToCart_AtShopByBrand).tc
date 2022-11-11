@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_107(Verify_User_AddproductToCart_AtShopByBrand)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a30b4613-6e3c-4d7d-9246-2bb60b8c71a8</testCaseGuid>
+</TestCaseEntity>

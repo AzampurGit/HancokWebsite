@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_131(Verify_User_RedirectedTo_TrolleyPage_From_MiniCart)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b023501-0e70-4657-885b-b205ff94e8f9</testCaseGuid>
+</TestCaseEntity>

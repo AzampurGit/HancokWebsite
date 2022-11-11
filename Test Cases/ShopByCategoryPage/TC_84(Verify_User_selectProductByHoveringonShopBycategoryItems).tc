@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_84(Verify_User_selectProductByHoveringonShopBycategoryItems)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1b6504b-c06d-47ea-943e-57988fae2190</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_56(Verify_User_Remove_ProductCode_row)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a609fa8a-9cb2-4d0b-b824-6ffadbb59164</testCaseGuid>
+</TestCaseEntity>

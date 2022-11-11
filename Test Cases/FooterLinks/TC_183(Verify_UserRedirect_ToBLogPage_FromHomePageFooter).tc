@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_183(Verify_UserRedirect_ToBLogPage_FromHomePageFooter)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0477a2f-d3d5-444d-b049-e40569f90759</testCaseGuid>
+</TestCaseEntity>

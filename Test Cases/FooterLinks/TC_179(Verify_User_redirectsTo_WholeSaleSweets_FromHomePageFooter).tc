@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_179(Verify_User_redirectsTo_WholeSaleSweets_FromHomePageFooter)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef03e3bd-3b4d-4a2c-bbdf-f11263ec7017</testCaseGuid>
+</TestCaseEntity>

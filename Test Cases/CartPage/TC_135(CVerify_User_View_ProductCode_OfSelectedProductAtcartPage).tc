@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_135(CVerify_User_View_ProductCode_OfSelectedProductAtcartPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caaedf26-c40a-422b-99f0-7af699a2e0e4</testCaseGuid>
+</TestCaseEntity>

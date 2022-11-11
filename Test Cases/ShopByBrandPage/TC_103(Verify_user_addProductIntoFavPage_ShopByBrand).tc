@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_103(Verify_user_addProductIntoFavPage_ShopByBrand)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc761fec-d810-442e-a10e-17ef5ec1e62e</testCaseGuid>
+</TestCaseEntity>

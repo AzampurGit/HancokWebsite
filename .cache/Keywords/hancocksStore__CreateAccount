@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "216F3E0FEB302528BB9A9F1223B86B6F",
+  "keywordClasses": [
+    {
+      "name": "hancocksStore.createAccount",
+      "keywordMethods": [
+        {
+          "name": "redirectsToCreateNewAccountPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "registerFromLoginPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

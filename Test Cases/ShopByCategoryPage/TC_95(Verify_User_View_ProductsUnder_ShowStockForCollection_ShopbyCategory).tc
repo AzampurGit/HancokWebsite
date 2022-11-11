@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_95(Verify_User_View_ProductsUnder_ShowStockForCollection_ShopbyCategory)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7fb8905-0ba4-4092-bba6-805ed1f0f019</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_83(Verify_User_open_PDPPage_ofFirstProductAtCategoryPage)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e63bb744-d98d-426d-8a60-8427fc9b6122</testCaseGuid>
+</TestCaseEntity>
